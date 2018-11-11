@@ -5,7 +5,7 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 
 ;README
 
-;The first line of the script states that, the scripts below that one
+;The first line of the following script states that, the scripts below that one
 ;are going to work only if the "ArenaNet_Dx_Window_Class" window is the active window.
 ;If you delete that line, following scripts are going to work on whichever window is currently active.
 
