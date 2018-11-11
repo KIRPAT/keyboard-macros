@@ -10,7 +10,7 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 ; They provide unfair advantages. Here will be some examples.
 ; I will be using Guild Wars 2 as the context while explaining use-case scenarios. 
 
-; The game I frequently play, Guild Wars 2, does not phrobit the usage of macros inheritly.
+; The game I frequently play, Guild Wars 2, does not prohibit the usage of macros inheritly.
 ; They say, it's only a ban reason when it's used with unfair gameplay intentions. 
 ; Like using a macro that lets the user to do more than one action with the press of a single button, "during combat".
 ; But the same rule does not apply when it comes to playing in-game instuments. 
