@@ -22,15 +22,15 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 
 ; SO, MACROS.
 ;-----------------------------------------------------
-; F1-F5 buttons are usually assigned to class skills. (Ex: Mesmer's shatter skills.) 
+; F1-F5 buttons are usually assigned to profession skills. (Ex: Mesmer's shatter skills.) 
 ; Let's use two of them with one press of a button. 
 ;|------------------|
 ;| What does it do? |
 ;|------------------|
 ;Macro key: Mail, a multimedia key.
-;Preses F4 button for 30ms then releases it. 
+;Presses F4 button for 30ms then releases it. 
 ;Waits 1 sec.
-;Preses F5 button for 30ms then releases it. 
+;Presses F5 button for 30ms then releases it. 
 Launch_Mail:: 
 Send {F4 down} 
 Sleep 30 
