@@ -6,7 +6,7 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 
 ; !!!PLEASE READ BEFORE DOING SOMETHING STUPID!!!
 
-; Online video games usually phrobit the usage of keyboard macros. 
+; Online video games usually prohibit the usage of keyboard macros. 
 ; They provide unfair advantages. Here will be some examples.
 ; I will be using Guild Wars 2 as the context while explaining use-case scenarios. 
 
