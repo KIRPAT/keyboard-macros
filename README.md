@@ -16,7 +16,7 @@ I wrote some **AutoHotkey** scripts to take advantage of my cheap keyboard. Usua
 
 **Note_2:** You might ask, why am I not using the program that came with my keyboard? Good question, AHK scripts are not keyboard specific. I can use the same script on multiple keyboards. (Also, those programs are not fun.)
 
-**Note_3:** Some games might detect your AHK script and refuse opening up. Sorry, no can do if that happens. If you are running your game on fullscreen, your scripts ***might*** wont work. Try windowed fullscreen, or windowed modes. 
+**Note_3:** Some games might detect your AHK script and refuse opening up. Sorry, no can do if that happens. If you are running your game on fullscreen, your scripts ***might*** won't work. Try windowed fullscreen, or windowed modes. 
 
 **Note_4:** To see the names of every possible key on your keyboard, check the [List of Keys](https://www.autohotkey.com/docs/KeyList.htm) page of the documentation.
 
