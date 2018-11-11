@@ -1,5 +1,5 @@
 # Keyboard Macros
-I wrote some **AutoHotkey** scripts to take advantage of my cheap keyboard. Usually for video games. Not to cheat, just to keybind. Still, you might wanna take a look at [wanna-get-banned.ahk](https://www.google.com) for the situations that might.. get you banned. 
+I wrote some **AutoHotkey** scripts to take advantage of my cheap keyboard. Usually for video games. Not to cheat, just to keybind. Still, you might wanna take a look at [wanna-get-banned.ahk](https://github.com/KIRPAT/keyboard-macros/blob/master/wanna-get-banned.ahk) for the situations that might.. get you banned. 
 
 **Why AutoHotkey?:** Because gamers usually pay lots of money to have programmable keys on their keyboards, while a lot of keyboards already have multimedia keys on them. Without an end-user UI, they don't know how to change their functions. Well, AutoHotkey scripting is easy enough to understand, even for non programmers. We can turn cheap keyboards into MMO Gaming keyboards! Cool, right?  
 
